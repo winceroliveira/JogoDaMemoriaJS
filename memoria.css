@@ -1,0 +1,18 @@
+#memoria{
+    max-width: 30rem;
+}
+#memoria img{
+    margin-bottom: 20px;
+    border: thin solid black;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    transition: none;
+    transform-style: preserve-3d;
+}
+#memoria #rodape{
+     text-align: center;
+}
+#efeito{
+    transform: rotateY(180deg);
+}
